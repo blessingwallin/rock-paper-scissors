@@ -36,18 +36,6 @@ JavaScript (ES6)
 localStorage API
 
 
-File Structure
-rock-paper-scissors/
-│
-├── rock-paper-scissors.html      # Main HTML file
-├── rock-paper-scissors.css       # Styling
-├── rock-paper-scissors.js        # Game logic and event handling
-└── rps_images/                   # Folder for Rock, Paper, Scissors icons
-    ├── rockIcon.png
-    ├── paperIcon.png
-    └── scissorsIcon.png
-
-
 Developed by
 Blessing Wallin
 
