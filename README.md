@@ -37,4 +37,4 @@ A Rock Paper Scissors game built with HTML, CSS, and JavaScript. The game allows
 - **JavaScript (ES6)** – Game logic and user interaction  
 - **localStorage API** – Persistent score tracking across sessions
 
-🛠 Developed by [Blessing Wallin](www.linkedin.com/in/blessing-wallin)
+🛠 Developed by [Blessing Wallin](https://github.com/blessingwallin)
