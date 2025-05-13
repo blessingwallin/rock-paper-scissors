@@ -1,41 +1,40 @@
-Rock Paper Scissors Game
+# Rock Paper Scissors Game
 A Rock Paper Scissors game built with HTML, CSS, and JavaScript. The game allows players to compete against the computer, track scores using localStorage, enable auto-play mode, and reset scores with confirmation.
 
+## Live Demo
+[Play the Game](https://blessingwallin.github.io/rock-paper-scissors/)
 
-Features
-Choose between Rock, Paper, or Scissors
+## Features
 
-Track wins, losses, and ties across browser sessions
+- 🎮 **Interactive Gameplay**
+  - Choose between Rock, Paper, or Scissors
+  - Play against the computer
 
-Keyboard shortcuts:
+- 🧠 **Auto Play Mode**
+  - Computer plays automatically every second
+  - Toggle with the `a` key
 
-r – Play Rock
+- 💾 **Persistent Scoring**
+  - Tracks wins, losses, and ties using `localStorage`
 
-p – Play Paper
+- ⌨️ **Keyboard Shortcuts**
+  - `r` – Play Rock  
+  - `p` – Play Paper  
+  - `s` – Play Scissors  
+  - `a` – Toggle Auto Play  
+  - `Backspace` – Show reset confirmation
 
-s – Play Scissors
+- ♻️ **Reset Options**
+  - Score reset confirmation prompt prevents accidental clears
 
-a – Toggle Auto Play
+- 📱 **Responsive Layout**
+  - Works well across different screen sizes
 
-Backspace – Show score reset confirmation
+## Technologies Used
 
-Auto Play mode (computer plays itself every second)
+- **HTML5** – Structure of the game interface  
+- **CSS3** – Styling and responsive layout  
+- **JavaScript (ES6)** – Game logic and user interaction  
+- **localStorage API** – Persistent score tracking across sessions
 
-Score reset confirmation prompt
-
-Responsive layout with clean, intuitive visuals
-
-
-Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (ES6)
-
-localStorage API
-
-
-Developed by
-Blessing Wallin
-
+🛠 Developed by [Blessing Wallin](www.linkedin.com/in/blessing-wallin)
